@@ -1,2 +1,6 @@
 # gamegirl
-fpga based nes box
+
+## Description
+
+This open source project implements a fpga based (Nintendo Entertainment System) nes box.
+
