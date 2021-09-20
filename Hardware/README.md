@@ -1,6 +1,8 @@
 
 # Description
 
+## V0.9
+
 GameGirl的硬件，包括FPGA核心板，核心控制板（扩展板）以及一个USBHUB板。
 
 # 核心板主要参数：
@@ -34,3 +36,11 @@ CPU：AT91SAM7S256
 # USBHUB：
 
 标准1拖4HUB
+<<<<<<< Updated upstream
+=======
+
+## V1.0
+
+在V0.9版本上将扩展板和USBHUB放到一块板卡上，同时优化了PCB走线。
+核心板优化了板层结构，优化了走线，去掉了USB-Blaser(板载JTAG)。
+>>>>>>> Stashed changes
